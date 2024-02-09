@@ -1,7 +1,7 @@
 To set up the project, follow these steps:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/HimanshuGarg47/matters.git
 cd matters
 python -m venv .env
 .env/Scripts/activate
