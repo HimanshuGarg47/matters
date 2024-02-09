@@ -14,4 +14,4 @@ python manage.py runserver
 
 
 ```
-# go to URL for all API list and payload/json format    http://127.0.0.1:8001/api/schema/swagger-ui/
+# go to URL for all API list and payload/json format    http://127.0.0.1:8001/api/schema/swagger-ui/ or http://127.0.0.1:8001/api/schema/redoc/
